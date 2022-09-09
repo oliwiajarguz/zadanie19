@@ -1,0 +1,22 @@
+.squareone{
+    width: 100px;
+    height: 100px;
+    background-color:rgba(0,0,0,1);
+}
+
+.squaretwo{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.7);
+    
+}
+.squarethree{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.5);
+}
+.squarefour{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.2);
+}
